@@ -198,7 +198,7 @@ To add a new intent, please refer to the following document:
 
 <!-- CONTACT -->
 ## Contact Us
-**Project Lead:** [Thomas Sicard](mailto:sica0019@algonquinlive.com)
+**Project Lead:** [Rishi Patel](mailto:pate0672@algonquinlive.com)
 
 **Technical Lead:** [Marcos Zorzi Rosa](mailto:zorz0004@algonquinlive.com)
 
@@ -206,7 +206,7 @@ To add a new intent, please refer to the following document:
 
 **Database Developer:** [Snehal Gondaliya](mailto:gond0017@algonquinlive.com)
 
-**UX Researcher & API Developer:** [Rushikumar Patel](mailto:pate0672@algonquinlive.com)
+**UX Researcher & API Developer:** [Thomas Sicard](mailto:sica0019@algonquinlive.com) 
 
 **Developer:** [Justin Rignault](mailto:rign0002@algonquinlive.com)
 
